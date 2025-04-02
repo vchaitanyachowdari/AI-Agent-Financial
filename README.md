@@ -161,7 +161,7 @@ ai-hedge-fund/
 
 ## Feature Requests
 
-If you have a feature request, please open an [issue](https://github.com/virattt/ai-hedge-fund/issues) and make sure it is tagged with `enhancement`.
+If you have a feature request, please open an [issue](https://github.com/vchaitanyachowdari/AI-Agent-Financial/issues) and make sure it is tagged with `enhancement`.
 
 ## License
 
